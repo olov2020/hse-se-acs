@@ -4,6 +4,7 @@
 	 ans: .asciz "Answer is "
 	 rest: .asciz "The rest is "
 	 exception: .asciz "You cannot divide by zero"
+	 enter: .asciz "\n"
  .text
  main:
  	li a7, 4
@@ -18,9 +19,9 @@
  	la a0, second_num
  	ecall
  	
- 	li a7 5
+ 	li a7, 5
  	ecall
- 	mv t1 a0
+ 	mv t1, a0
  	
  	beqz t1, end_if_0
  	
@@ -43,7 +44,7 @@ pre:
 	mv t2, t0
 	li s7, 0
 while:
-	blt t0, t1 after_while
+	blt t0, t1, after_while
  	li a7, -1
  	mul t1, t1, a7
  	add t0, t0, t1
@@ -85,7 +86,7 @@ end:
 	li a7, 1
 	ecall
 	
-	li a0, '\n'
+	li a0, enter
 	li a7, 11
 	ecall
 	
