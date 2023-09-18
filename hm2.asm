@@ -4,7 +4,6 @@
 	 ans: .asciz "Answer is "
 	 rest: .asciz "The rest is "
 	 exception: .asciz "You cannot divide by zero"
-	 enter: .asciz "\n"
  .text
  main:
  	li a7, 4
@@ -86,7 +85,7 @@ end:
 	li a7, 1
 	ecall
 	
-	li a0, enter
+	li a0, '\n'
 	li a7, 11
 	ecall
 	
