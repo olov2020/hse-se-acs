@@ -33,7 +33,7 @@ incorrect_array:
  	li 	a7, 5
  	ecall
  	mv 	t2, a0		  # adding elem to array in t2
- 	sw      t2, (t4)          # Запись числа по адресу в t0
+ 	sw      t2, (t4)         
  	
  	addi    t4, t4, 4
         addi    t0, t0, 1         # check for num of elements in array
