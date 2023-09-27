@@ -47,8 +47,6 @@ incorrect_array:
         li 	t0, 1
         
         li 	t5, 0		  # sum of elems in array in t5
-        li	t2, 0 		  # sum of elems % 2 == 0
-        li 	t1, 0 		  # sum of elems % 2 == 1
 out:    li      a7, 1
         
         lw 	t3, (t4)
