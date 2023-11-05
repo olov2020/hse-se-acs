@@ -13,6 +13,9 @@ main:
 	fcvt.d.w	ft4, s1
 	fcvt.d.w	ft5, s2
 	
+	la		a0, input		# hint for user
+	li		a7, 4
+	ecall 
 	input_x(ft0)				# input double to ft0
 	
  	fge.d 		t3, ft0, ft3		# chech if input >= 1
@@ -22,6 +25,10 @@ main:
  	j		func
  
  check_input:					# repeate input while incorrect
+	la		a0, input		# hint for user
+	li		a7, 4
+	ecall 
+	
  	input_x(ft0)				# input double to ft0
  	
  	fge.d 		t3, ft0, ft3		# chech if input >= 1
