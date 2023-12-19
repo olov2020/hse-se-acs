@@ -1,3 +1,0 @@
-C:/Users/vladimir/Desktop/vladimir/HSE/2 курс/авс/ihw4/cmake-build-debug/CMakeFiles/ihw4.dir
-C:/Users/vladimir/Desktop/vladimir/HSE/2 курс/авс/ihw4/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/vladimir/Desktop/vladimir/HSE/2 курс/авс/ihw4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
