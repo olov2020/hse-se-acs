@@ -1,0 +1,50 @@
+Librarian: Gives you a book. Rest of books: 4
+Reader 4: Comes ot the library. Wants to take 3 books.
+Reader 4: Gets books: 4 2 1 . Rest of books: 1
+Reader 2: Comes ot the library. Wants to take 3 books.
+Reader 2: There are no so many books. Waiting.
+Reader 3: Comes ot the library. Wants to take 3 books.
+Reader 3: There are no so many books. Waiting.
+Reader 1: Comes ot the library. Wants to take 3 books.
+Reader 1: There are no so many books. Waiting.
+Reader 5: Comes ot the library. Wants to take 3 books.
+Reader 5: There are no so many books. Waiting.
+Reader 6: Comes ot the library. Wants to take 3 books.
+Reader 6: There are no so many books. Waiting.
+Reader 7: Comes ot the library. Wants to take 3 books.
+Reader 7: There are no so many books. Waiting.
+Reader 4: Finished reading. Returns books.
+Reader 4: Returns books. Rest of books: 4
+Reader 2: Gets books: 4 2 1 . Rest of books: 1
+Reader 6: There are no so many books. Waiting.
+Reader 3: There are no so many books. Waiting.
+Reader 7: There are no so many books. Waiting.
+Reader 5: There are no so many books. Waiting.
+Reader 1: There are no so many books. Waiting.
+Reader 2: Finished reading. Returns books.
+Reader 2: Returns books. Rest of books: 4
+Reader 1: Gets books: 4 2 1 . Rest of books: 1
+Reader 6: There are no so many books. Waiting.
+Reader 3: There are no so many books. Waiting.
+Reader 7: There are no so many books. Waiting.
+Reader 5: There are no so many books. Waiting.
+Reader 1: Finished reading. Returns books.
+Reader 1: Returns books. Rest of books: 4
+Reader 3: Gets books: 4 2 1 . Rest of books: 1
+Reader 6: There are no so many books. Waiting.
+Reader 5: There are no so many books. Waiting.
+Reader 7: There are no so many books. Waiting.
+Reader 3: Finished reading. Returns books.
+Reader 3: Returns books. Rest of books: 4
+Reader 6: Gets books: 4 2 1 . Rest of books: 1
+Reader 7: There are no so many books. Waiting.
+Reader 5: There are no so many books. Waiting.
+Reader 6: Finished reading. Returns books.
+Reader 6: Returns books. Rest of books: 4
+Reader 5: Gets books: 4 2 1 . Rest of books: 1
+Reader 7: There are no so many books. Waiting.
+Reader 5: Finished reading. Returns books.
+Reader 5: Returns books. Rest of books: 4
+Reader 7: Gets books: 4 2 1 . Rest of books: 1
+Reader 7: Finished reading. Returns books.
+Reader 7: Returns books. Rest of books: 4

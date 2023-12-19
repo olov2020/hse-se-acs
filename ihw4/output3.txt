@@ -1,0 +1,22 @@
+Reader 1: Comes ot the library. Wants to take 3 books.
+Reader 1: Gets books: 3 7 7 . Rest of books: 12
+Reader 2: Comes ot the library. Wants to take 3 books.
+Reader 2: Gets books: 12 10 1 . Rest of books: 9
+Reader 3: Comes ot the library. Wants to take 3 books.
+Reader 3: Gets books: 9 7 6 . Rest of books: 6
+Librarian: Gives you a book. Rest of books: 5
+Reader 4: Comes ot the library. Wants to take 3 books.
+Reader 4: Gets books: 3 3 2 . Rest of books: 2
+Reader 5: Comes ot the library. Wants to take 3 books.
+Reader 5: There are no so many books. Waiting.
+Reader 1: Finished reading. Returns books.
+Reader 1: Returns books. Rest of books: 5
+Reader 2: Finished reading. Returns books.
+Reader 2: Returns books. Rest of books: 8
+Reader 4: Finished reading. Returns books.
+Reader 4: Returns books. Rest of books: 11
+Reader 3: Finished reading. Returns books.
+Reader 3: Returns books. Rest of books: 14
+Reader 5: Gets books: 2 4 5 . Rest of books: 11
+Reader 5: Finished reading. Returns books.
+Reader 5: Returns books. Rest of books: 14
